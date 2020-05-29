@@ -1,0 +1,13 @@
+{
+  "name": "2-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "dependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^26.0.1"
+  }
+}

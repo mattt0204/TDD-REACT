@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  }
+}
